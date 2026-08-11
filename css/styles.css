@@ -14,7 +14,7 @@ body {
   background: #06283d;
 }
 
-.containter {
+.container {
   position: relative;
   width: 400px;
   height: 105px;
@@ -36,7 +36,7 @@ body {
 
 .search-box input {
   color: #06283d;
-  width: 88%;
+  width: 80%;
   font-size: 24px;
   font-weight: 500;
   text-transform: uppercase;
@@ -44,7 +44,7 @@ body {
 }
 
 .search-box input::placeholder {
-  font-size: 20;
+  font-size: 20px;
   font-weight: 500;
   color: #06283d;
   text-transform: capitalize;
